@@ -8,6 +8,7 @@
   "dependencies": {
     "@apollo/server": "^5.5.0",
     "@elysiajs/apollo": "^1.4.0",
+    "@elysiajs/cors": "^1.4.1",
     "elysia": "latest",
     "graphql": "^16.13.2"
   },
